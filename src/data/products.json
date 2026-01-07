@@ -1,0 +1,263 @@
+[
+  {
+    "districtName": "Chanderi",
+    "productName": "Chanderi Saree",
+    "productImage": "https://source.unsplash.com/900x600/?saree,handloom",
+    "productDescription": "Chanderi sarees are known for their lightweight texture, glossy transparency and intricate zari work. OPOD relevance: iconic handloom craft from Chanderi.",
+    "price": 2499,
+    "category": "Textile",
+    "slug": "chanderi-saree"
+  },
+  {
+    "districtName": "Chanderi",
+    "productName": "Chanderi Fabric (per meter)",
+    "productImage": "https://source.unsplash.com/900x600/?fabric,handloom",
+    "productDescription": "Premium Chanderi fabric used for garments and tailoring.",
+    "price": 499,
+    "category": "Textile",
+    "slug": "chanderi-fabric"
+  },
+  {
+    "districtName": "Chanderi",
+    "productName": "Chanderi Blouse Piece",
+    "productImage": "https://source.unsplash.com/900x600/?blouse,saree",
+    "productDescription": "Coordinated blouse piece matching Chanderi sarees.",
+    "price": 799,
+    "category": "Textile",
+    "slug": "chanderi-blouse"
+  },
+  {
+    "districtName": "Chanderi",
+    "productName": "Chanderi Dress Material",
+    "productImage": "https://source.unsplash.com/900x600/?dress,handloom",
+    "productDescription": "Readymade dress material inspired by Chanderi weaves.",
+    "price": 1799,
+    "category": "Textile",
+    "slug": "chanderi-dress"
+  },
+  {
+    "districtName": "Maheshwar",
+    "productName": "Maheshwari Saree",
+    "productImage": "https://source.unsplash.com/900x600/?saree,handloom",
+    "productDescription": "Maheshwari sarees are famed for their reversible weaves and elegant borders. OPOD relevance: traditional weaving from Maheshwar.",
+    "price": 1999,
+    "category": "Textile",
+    "slug": "maheshwari-saree"
+  },
+  {
+    "districtName": "Maheshwar",
+    "productName": "Maheshwari Fabric (per meter)",
+    "productImage": "https://source.unsplash.com/900x600/?fabric,weaving",
+    "productDescription": "Maheshwari handloom fabric for stitching and tailoring.",
+    "price": 599,
+    "category": "Textile",
+    "slug": "maheshwari-fabric"
+  },
+  {
+    "districtName": "Maheshwar",
+    "productName": "Maheshwari Dupatta",
+    "productImage": "https://source.unsplash.com/900x600/?dupatta,handloom",
+    "productDescription": "Lightweight dupatta with classic Maheshwari motifs.",
+    "price": 499,
+    "category": "Textile",
+    "slug": "maheshwari-dupatta"
+  },
+  {
+    "districtName": "Maheshwar",
+    "productName": "Maheshwari Dress Material",
+    "productImage": "https://source.unsplash.com/900x600/?dress,weaving",
+    "productDescription": "Dress material using Maheshwari weave patterns.",
+    "price": 1599,
+    "category": "Textile",
+    "slug": "maheshwari-dress"
+  },
+  {
+    "districtName": "Morena",
+    "productName": "Stone Craft",
+    "productImage": "https://source.unsplash.com/900x600/?stone,craft",
+    "productDescription": "Stone craft from Morena uses local stone for decorative and architectural pieces. OPOD relevance: region-specific craft brought forward.",
+    "price": 1499,
+    "category": "Handmade",
+    "slug": "stone-craft"
+  },
+  {
+    "districtName": "Morena",
+    "productName": "Stone Carved Bowl",
+    "productImage": "https://source.unsplash.com/900x600/?stone,bowl",
+    "productDescription": "Hand-carved stone bowl for decor and utility.",
+    "price": 699,
+    "category": "Handmade",
+    "slug": "stone-bowl"
+  },
+  {
+    "districtName": "Morena",
+    "productName": "Stone Sculpture (small)",
+    "productImage": "https://source.unsplash.com/900x600/?stone,sculpture",
+    "productDescription": "Small decorative stone sculptures made locally.",
+    "price": 1299,
+    "category": "Handmade",
+    "slug": "stone-sculpture"
+  },
+  {
+    "districtName": "Morena",
+    "productName": "Stone Candle Holder",
+    "productImage": "https://source.unsplash.com/900x600/?candle,stone",
+    "productDescription": "Polished stone candle holders with traditional motifs.",
+    "price": 399,
+    "category": "Handmade",
+    "slug": "stone-candle-holder"
+  },
+  {
+    "districtName": "Dindori",
+    "productName": "Gond Painting",
+    "productImage": "https://source.unsplash.com/900x600/?folk,painting",
+    "productDescription": "Gond painting is a folk art with vibrant motifs and storytelling. OPOD relevance: cultural painting tradition of Dindori.",
+    "price": 899,
+    "category": "Painting",
+    "slug": "gond-painting"
+  },
+  {
+    "districtName": "Dindori",
+    "productName": "Gond Art Print (small)",
+    "productImage": "https://source.unsplash.com/900x600/?art,print",
+    "productDescription": "Framed small Gond art print for home decor.",
+    "price": 399,
+    "category": "Painting",
+    "slug": "gond-print"
+  },
+  {
+    "districtName": "Dindori",
+    "productName": "Gond Textile Panel",
+    "productImage": "https://source.unsplash.com/900x600/?textile,folk",
+    "productDescription": "Textile panels featuring Gond motifs.",
+    "price": 699,
+    "category": "Textile",
+    "slug": "gond-textile"
+  },
+  {
+    "districtName": "Dindori",
+    "productName": "Gond Miniature",
+    "productImage": "https://source.unsplash.com/900x600/?miniature,art",
+    "productDescription": "Small handcrafted Gond figurines.",
+    "price": 299,
+    "category": "Handmade",
+    "slug": "gond-miniature"
+  },
+  {
+    "districtName": "Betul",
+    "productName": "Wooden Handicrafts",
+    "productImage": "https://source.unsplash.com/900x600/?woodcraft,handicraft",
+    "productDescription": "Betul produces carved wooden handicrafts used in decor and utilities. OPOD relevance: local woodcraft heritage.",
+    "price": 799,
+    "category": "Wooden Craft",
+    "slug": "wooden-handicrafts"
+  },
+  {
+    "districtName": "Betul",
+    "productName": "Wooden Trinket Box",
+    "productImage": "https://source.unsplash.com/900x600/?wooden,box",
+    "productDescription": "Small carved wooden trinket box.",
+    "price": 249,
+    "category": "Wooden Craft",
+    "slug": "wooden-box"
+  },
+  {
+    "districtName": "Betul",
+    "productName": "Wooden Wall Art",
+    "productImage": "https://source.unsplash.com/900x600/?wood,wall,art",
+    "productDescription": "Decorative wooden wall panels with carving.",
+    "price": 999,
+    "category": "Wooden Craft",
+    "slug": "wooden-wall-art"
+  },
+  {
+    "districtName": "Betul",
+    "productName": "Wooden Utensil",
+    "productImage": "https://source.unsplash.com/900x600/?wooden,utensil",
+    "productDescription": "Handcrafted kitchen utensils from local wood.",
+    "price": 199,
+    "category": "Wooden Craft",
+    "slug": "wooden-utensil"
+  },
+  {
+    "districtName": "Ujjain",
+    "productName": "Brass Art",
+    "productImage": "https://source.unsplash.com/900x600/?brass,metal,craft",
+    "productDescription": "Brassware and ritual items from Ujjain are renowned for finish and motifs. OPOD relevance: traditional metalwork of Ujjain.",
+    "price": 1299,
+    "category": "Metal Craft",
+    "slug": "brass-art"
+  },
+  {
+    "districtName": "Ujjain",
+    "productName": "Brass Oil Lamp",
+    "productImage": "https://source.unsplash.com/900x600/?brass,lamp",
+    "productDescription": "Traditional brass oil lamps used in rituals.",
+    "price": 699,
+    "category": "Metal Craft",
+    "slug": "brass-lamp"
+  },
+  {
+    "districtName": "Ujjain",
+    "productName": "Brass Plate",
+    "productImage": "https://source.unsplash.com/900x600/?brass,plate",
+    "productDescription": "Decorative brass plates with engraving.",
+    "price": 499,
+    "category": "Metal Craft",
+    "slug": "brass-plate"
+  },
+  {
+    "districtName": "Ujjain",
+    "productName": "Brass Incense Holder",
+    "productImage": "https://source.unsplash.com/900x600/?incense,brass",
+    "productDescription": "Small brass incense holders ideal for pooja.",
+    "price": 299,
+    "category": "Metal Craft",
+    "slug": "brass-incense-holder"
+  },
+  {
+    "districtName": "Indore",
+    "productName": "Pithora Art",
+    "productImage": "https://source.unsplash.com/900x600/?folk,painting",
+    "productDescription": "Pithora is a ritual folk painting style native to parts of MP. OPOD relevance: living folk tradition.",
+    "price": 599,
+    "category": "Painting",
+    "slug": "pithora-art"
+  },
+  {
+    "districtName": "Jabalpur",
+    "productName": "Bell Metal Crafts",
+    "productImage": "https://source.unsplash.com/900x600/?metal,craft",
+    "productDescription": "Bell metal or ‘Dhokra’ influenced pieces and metalwork from Jabalpur. OPOD relevance: distinct metal craftsmanship.",
+    "price": 2199,
+    "category": "Metal Craft",
+    "slug": "bell-metal-crafts"
+  },
+  {
+    "districtName": "Bhopal",
+    "productName": "Bhopali Lacquerware",
+    "productImage": "https://source.unsplash.com/900x600/?lacquer,craft",
+    "productDescription": "Lacquered decorative items and jewelry boxes. OPOD relevance: urban craft center with heritage techniques.",
+    "price": 699,
+    "category": "Handmade",
+    "slug": "bhopali-lacquerware"
+  },
+  {
+    "districtName": "Seoni",
+    "productName": "Bamboo Crafts",
+    "productImage": "https://source.unsplash.com/900x600/?bamboo,craft",
+    "productDescription": "Seoni artisans craft utilitarian and decorative bamboo items. OPOD relevance: local raw-material based craft.",
+    "price": 399,
+    "category": "Wooden Craft",
+    "slug": "bamboo-crafts"
+  },
+  {
+    "districtName": "Satna",
+    "productName": "Stone Carving",
+    "productImage": "https://source.unsplash.com/900x600/?stone,carving",
+    "productDescription": "Intricate stone carving for temples and decor. OPOD relevance: craft linked to local quarries.",
+    "price": 1599,
+    "category": "Handmade",
+    "slug": "stone-carving"
+  }
+]
